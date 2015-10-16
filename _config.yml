@@ -1,7 +1,7 @@
-name: null
+name: balamh.com
 favicon: null
-layout_spectrum: 0.6763782140333205
-typography_spectrum: 0.20097780670039356
+layout_spectrum: 1
+typography_spectrum: 0.19828
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.3684652929659933
-  lightness: 0.9382604754064232
-  saturation: 0.8829409175086766
-  rhythmicContrast: 0.2597230887040496
+  brandColors:
+    - '#ffffff'
+    - '#0a0a08'
+    - '#b4d2f4'
+    - '#728299'
+    - '#3d3c3a'
+  brandStrength: 1
+  lightness: null
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
