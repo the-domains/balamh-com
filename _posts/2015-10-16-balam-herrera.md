@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-20T14:13:46.506Z'
-dateModified: '2015-10-20T14:13:43.095Z'
+datePublished: '2015-10-20T19:15:39.958Z'
+dateModified: '2015-10-20T19:11:12.505Z'
 title: Balam Herrera
 sourcePath: _posts/2015-10-16-balam-herrera.md
 published: true
