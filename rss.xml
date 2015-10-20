@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[balamh.com]]></title>
         <description><![CDATA[balamh.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/balamh-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 19:17:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 19:50:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/balamh-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87651469-bea2-4d0f-8407-112ac14be230.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/balamh-com/3489b5b1-01a5-44c8-b82d-a37e7910c49b/index.html</link>
+            <guid isPermaLink="false">3489b5b1-01a5-44c8-b82d-a37e7910c49b</guid>
+            <pubDate>Tue, 20 Oct 2015 19:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e2ffc39-25c5-418a-ade1-c363bbb7e3be.jpg" alt="" title="">]]></description>
-            <link>undefined74860f58-2538-47eb-984e-535b45fcbd66/index.html</link>
+            <link>https://thegrid.ai/balamh-com/74860f58-2538-47eb-984e-535b45fcbd66/index.html</link>
             <guid isPermaLink="false">74860f58-2538-47eb-984e-535b45fcbd66</guid>
             <pubDate>Tue, 20 Oct 2015 19:17:21 GMT</pubDate>
         </item>
