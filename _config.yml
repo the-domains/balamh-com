@@ -1,7 +1,7 @@
 name: balamh.com
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.73005
+layout_spectrum: 0.51791
+typography_spectrum: 0.2285
 title: null
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#728299'
     - '#3d3c3a'
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   saturation: 0
   rhythmicContrast: 1
 purpose: []
